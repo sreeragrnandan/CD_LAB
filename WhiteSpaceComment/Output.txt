@@ -1,0 +1,6 @@
+#include
+intmain()
+{
+
+return0;
+}
